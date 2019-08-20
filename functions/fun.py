@@ -1,3 +1,5 @@
+
 def test():
-    printf("pello test")
+    printf(" test")
+
 
