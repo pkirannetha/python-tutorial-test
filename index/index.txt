@@ -2,8 +2,7 @@
 test = test
 this is python index file
 
-***REMOVED***
 
-not a ***REMOVED***
+not a
 
 
