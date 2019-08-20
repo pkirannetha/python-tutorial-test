@@ -1,4 +1,5 @@
-black-text = black-text
+
+test = test
 this is python index file
 ***REMOVED***
 *********
