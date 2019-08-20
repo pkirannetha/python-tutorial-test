@@ -1,5 +1,5 @@
 
 def test():
-    printf("hello test")
+    printf(" test")
 
 
