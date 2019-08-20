@@ -1,3 +1,5 @@
-def black-text():
-    printf("hello black-text")
+
+def test():
+    printf("hello test")
+
 
